@@ -2,6 +2,10 @@
 
 A Model Context Protocol (MCP) server that provides tools for finding camping facilities and recreational areas using Recreation.gov's Recreation Information Database (RIDB) API and Google Maps Geocoding API.
 
+<a href="https://glama.ai/mcp/servers/@melanieawilson/rec_mcp">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@melanieawilson/rec_mcp/badge" alt="Rec-MCP MCP server" />
+</a>
+
 ## Features
 
 - 🏕️ **Find Camping Facilities**: Search for campgrounds and recreational facilities near any location
@@ -46,5 +50,3 @@ For Claude Desktop, add the server to the claude_desktop_config.json file.
 ### Credits
 
 JetBrains AI Pro generated 90 % of the code written for this project in PyCharm.
-
-
